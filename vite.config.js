@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/your-repository-name/", // Change this to match your repo name!
+  base: "/DaisyUI2/", // Change this to match your repo name!
   build: {
     outDir: "dist",
     assetsDir: "",
